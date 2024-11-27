@@ -1,6 +1,5 @@
 public class ArrayAccessDemo {
     public  static void main(String[] args){
-
         //배열초기화
         int[] scores = {100,90,50,95,85};
         //배열의 첫번째 원소에 접근
