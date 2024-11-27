@@ -1,4 +1,4 @@
-public class ArraCreationDemo {
+public class ArrayCreationDemo {
     public static void main(String[] args){
         //방법1:배열 선언과 동시에 초기화
         int[] scoresMethod1 ={100,90,50,95,85};
